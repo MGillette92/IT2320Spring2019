@@ -1,0 +1,29 @@
+﻿nav {
+    border-style: solid;
+    border-radius: 12px;
+}
+
+#div1 {
+    float: left;
+    width: 40%;
+}
+
+#div2 {
+    float: right;
+    width:40%;
+    margin-left: 10px;
+}
+
+.div-container {
+    clear: both;
+    overflow: hidden;
+}
+
+footer {
+    background-image: linear-gradient(blue, yellow);
+    transform: rotate(10deg);
+}
+
+header {
+    text-shadow: 2px 2px orange;
+}
