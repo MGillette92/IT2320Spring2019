@@ -1,0 +1,29 @@
+
+#welcome {
+    background-image: linear-gradient(grey, white);
+}
+
+#result {
+    color: blue;
+}
+
+#reset {
+    background-image: linear-gradient(green, yellow);
+}
+
+
+.square {
+    background-color: white;
+    width: 90px;
+    height: 90px;
+    float: left;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    cursor: pointer;
+    text-align: center;
+}
+
+#rowContainer {
+    display: inline-block;
+}
